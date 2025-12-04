@@ -3,8 +3,6 @@
 ## AIM : 
 To detect and visualize the edges and contours of a coin using image processing techniques such as grayscale conversion, blurring, morphological operations, and Canny edge detection in OpenCV.
 ## PROGRAM:
-### NAME : SANJEEV RAJ.S
-### REGISTER NUMBER : 212223220096
 ```
 # --- Step 0: Upload a coin image ---
 from google.colab import files
